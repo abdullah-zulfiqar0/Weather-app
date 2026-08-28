@@ -18,7 +18,7 @@
 <h2>🔗 Links</h2>
 <ul>
   <li><b>Repository:</b> <a href="https://github.com/abdullah-zulfiqar0/Weather-app" target="_blank">https://github.com/abdullah-zulfiqar0/weather-app</a></li>
-  <li><b>Live Site:</b> <a href="https://abdullah-zulfiqar0.github.io/Weather-app/" target="_blank">https://abdullah-zulfiqar0.github.io/weather-app/</a></li>
+  <li><b>Live Site:</b> <a href="https://weather-app-one-nu-18.vercel.app/" target="_blank">https://abdullah-zulfiqar0.github.io/weather-app/</a></li>
 </ul>
 
 <h2>🛠️ Built With</h2>
